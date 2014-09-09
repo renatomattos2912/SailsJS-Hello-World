@@ -58,7 +58,7 @@ module.exports.connections = {
   ***************************************************************************/
   mongoLocal: {
     adapter: 'sails-mongo',
-    host: process.env.MONGO_URL,
+    host: 'mongodb://sails:aXpSVWFHYWlrMXcwRkxKOHNITVhwdFpNSnRUY3owQ05OaitBSnFScjh6dz0K@172.17.0.13:27017/sails-production',
     //port: 27017,
     // user: 'username',
     // password: 'password',
