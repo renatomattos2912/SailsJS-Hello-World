@@ -1,0 +1,14 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+        "Start": "sails lift"
+  },
+
+// Preview button configuration
+  "preview": {       
+        "Live": "http://{{domain}}:1337"
+        
+  }
+}

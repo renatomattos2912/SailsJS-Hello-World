@@ -1,4 +1,3 @@
-SailsJS-Hello-World
-===================
+# app
 
-Projeto de teste do framework Sails.js
+a [Sails](http://sailsjs.org) application
