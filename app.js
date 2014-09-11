@@ -53,7 +53,9 @@ process.chdir(__dirname);
     }
   }
 
-
+  // New Relic
+  var newrelic = require('newrelic');
+  
   // Start server
   sails.lift(rc('sails'));
 })();
